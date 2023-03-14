@@ -1,0 +1,8 @@
+@inproceedings{REPO-309,
+    author = "Wang, Wen and Zhang, Wei and Liu, Shukai and Liu, Qi and Zhang, Bo and Lin, Leyu and Zha, Hongyuan",
+    booktitle = "Proceedings of The Web Conference 2020",
+    pages = "3056¨C3062",
+    series = "WWW '20",
+    title = "{Beyond Clicks: Modeling Multi-Relational Item Graph for Session-based Target Behavior Prediction}",
+    year = "2020"
+}
